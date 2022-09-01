@@ -1,0 +1,14 @@
+.flexbox{
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    margin: 5px;
+    width: 70px;
+}
+
+.resetButton{
+    width: 230px;
+    border-radius: 5px;
+}
